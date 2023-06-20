@@ -1,0 +1,2 @@
+E:\laser defender course\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+E:\laser defender course\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
